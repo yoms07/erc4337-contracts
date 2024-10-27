@@ -1,0 +1,8 @@
+export const TESTNET_ENTRYPOINT_ADDRESS = "0x";
+export const LOCAL_ENTRYPOINT_ADDRESS = "0x";
+
+export const TESTNET_ACCOUNT_FACTORY_ADDRESS = "0x";
+export const LOCAL_ACCOUNT_FACTORY_ADDRESS = "0x";
+
+export const TESTNET_PAYMASTER_ADDRESS = "0x";
+export const LOCAL_PAYMASTER_ADDRESS = "0x";
